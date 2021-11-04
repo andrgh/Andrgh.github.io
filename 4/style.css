@@ -1,0 +1,44 @@
+.div1{
+    width: 300px;
+    height: 830px;
+    border: 2px solid black;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    margin-left: 40px;
+}
+img{
+    width: 250px;
+    margin-left: 15px;
+
+}
+hr{
+    width: 250px;
+}
+.note{
+    text-align:center;
+}
+.note{
+    text-align:center;
+}
+.div2{
+    height:830px ;
+    width:900px ;
+    border: 2px solid black;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    margin-left: 350px;
+    margin-top: -835px;
+}
+.rock{
+    width: 870px;
+}
+.div3{
+    background:rgb(118, 219, 118);
+    position: absolute;
+    width: 240px;
+    height: 60px;
+    border-radius: 10px;
+    margin-left: 700px;
+    margin-top:-220px ;
+}
+.last{
+    text-align:center;
+}

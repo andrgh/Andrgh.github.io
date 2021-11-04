@@ -1,0 +1,60 @@
+
+.ironman{
+    background: linear-gradient(to bottom, #7c0000 0%, #f00202 100%);
+    border-radius:20px ;
+    width: 500px;
+    height: 350px;
+    position: relative;
+}
+img{
+    width: 370px;
+    height: 370px;
+}
+.spiderman{
+    background: linear-gradient(to bottom, #ff0000 0%, #000000 100%);
+    border-radius:20px ;
+    width: 500px;
+    height: 350px;
+    position: relative;
+    margin-left: 650px;
+    margin-top: -350px;
+}
+.black{
+    border-radius:20px ;
+    width: 500px;
+    height: 350px;
+    background: linear-gradient(to left, #660066 0%, #000000 100%);
+    position: relative;
+    margin-left: 650px;
+    margin-top: -345px;
+}
+.capitan{
+    border-radius:20px ;
+    width: 500px;
+    height: 350px;
+    background: linear-gradient(to bottom, #0099ff 0%, #cc00cc 100%);
+    position:relative;
+    margin-top: 20px;
+}
+.div1{
+    margin-top: -750px;
+    position: absolute;
+    margin-left: 330px;
+}
+.div2{
+    margin-top: -370px;
+    position: absolute;
+    margin-left: 250px;
+}
+.div3{
+    margin-top: -720px;
+    position: absolute;
+    margin-left: 990px;
+}
+.div4{
+    margin-top: -350px;
+    position: absolute;
+    margin-left: 900px;
+}
+  
+    
