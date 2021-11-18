@@ -1,0 +1,73 @@
+.wrapper{
+    width: 400px;
+    height: auto;
+    border: 0.2px solid #666666;
+    background: azure;
+    margin-top: 15px;
+}
+.card_price{
+    color: black;
+    background: rgb(241, 166, 3);
+    border-radius: 5PX;
+    font-size: 20PX;
+}
+.card_price:hover{
+    transition: all 1s ease-out;
+    background: rgb(163, 0, 204);
+}
+.card_asus{
+    color: white;
+    background: rgb(163, 0, 204);
+    font-size: 25PX;
+    border-radius: 5PX;
+    border: 0.5px solid black;
+    width: 120px;
+}
+.card_asus:hover{
+    background:rgb(241, 166, 3);
+    transition: all 1s ease-out;
+}
+.card_link{
+    color: #666666;
+    font-size: 25PX;
+}
+.card_link:hover{
+    color:rgb(241, 166, 3);
+    transition: all 0.5s ease-out;
+}
+.card_btn{
+width: 330px;
+height: 30px;
+background:rgb(241, 166, 3);
+border: 0.5px solid black;
+border-radius: 20px;
+margin-left: 20px;
+}
+.card_btn:hover{
+background: rgb(163, 0, 204);
+transition: all 1s ease-out;
+}
+.wrapper2{
+    width: 400px;
+    height: auto;
+    border: 0.2px solid #666666;
+    background: azure;
+    margin-top: -496px;
+    margin-left: 500px;
+}
+.wrapper3{
+    width: 400px;
+    height: auto;
+    border: 0.2px solid #666666;
+    background: azure;
+    margin-top: 24px;
+    margin-left: 10px;
+}
+.wrapper4{
+    width: 400px;
+    height: 512px;
+    border: 0.2px solid #666666;
+    background: azure;
+    margin-top: -496px;
+    margin-left: 500px;
+}
