@@ -1,0 +1,16 @@
+.Square {
+  width: 150px;
+  height: 150px;
+  border: 1;
+  text-align: center;
+  font-size: 80pt;
+  font-weight: bold;
+  font-family: Verdana;
+}
+TABLE {
+  border-collapse: collapse; 
+  }
+  TD, TH {
+  padding: 5px; 
+  border: 2px solid black; 
+  }
